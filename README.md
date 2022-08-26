@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kasun</h1>
 <h3 align="center">A passionate full stack developer from Srilanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kasunsujeewa&label=Profile%20views&color=0e75b6&style=flat" alt="kasunsujeewa" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kasunsujeewa" alt="kasunsujeewa" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/KasunRa9523" target="blank"><img src="https://img.shields.io/twitter/follow/@kasunra9523?logo=twitter&style=for-the-badge" alt="@kasunra9523" /></a> </p>
+<p align="left"> <a href="https://twitter.com/KasunRa9523" target="blank"><img src="https://img.shields.io/twitter/follow/kasunra9523?logo=twitter&style=for-the-badge" alt="kasunra9523" /></a> </p>
 
 - 🌱 I’m currently learning **Python**
 
