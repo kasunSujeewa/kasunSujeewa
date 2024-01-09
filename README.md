@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kasun</h1>
 <h3 align="center">A passionate full stack developer from Srilanka</h3>
 
-- 🌱 I’m currently learning **Python**
-
 - 💬 Ask me about **Laravel, React, VueJs**
 
 - 📫 How to reach me **kasun1.sujeewa@gmail.com**
